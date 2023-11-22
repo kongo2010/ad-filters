@@ -41,3 +41,6 @@ get4click.ru
 cdn.amplitude.com
 rcmjs.rambler.ru/static/recommender.js
 trafffgen.rambler.ru
+www.googletagmanager.com/gtag
+www.google-analytics.com/g/collect
+yandex.ru/an/count
